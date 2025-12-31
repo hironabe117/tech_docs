@@ -1,4 +1,5 @@
 # Study note
+学んだことをメモしていく。
 <details><summary>AWS</summary>
 
 - [Amazon Cognito](./AWS/001_Cognito.md)
@@ -14,4 +15,3 @@
 <details><summary>Python</summary>
 
 </details>
-
