@@ -2,20 +2,17 @@
 学んだことをメモしていく。
 ## AWS
   - [Amazon Cognito](./AWS/001_Cognito.md)
-  - [AWS CLI](./AWS/002_CLI.md)
-
-<details><summary>AWS</summary>
-
+  - [AWS CommandLineInterface](./AWS/002_CLI.md)
+## Kubernetes
 - [Amazon Cognito](./AWS/001_Cognito.md)
-- [AWS CLI](./AWS/002_CLI.md)
-</details>
-<details><summary>Kubernetes</summary>
 
-[Amazon Cognito](./AWS/001_Cognito.md)
-</details>
-<details><summary>Nodejs</summary>
+## Nodejs
 
-</details>
-<details><summary>Python</summary>
+## Python
 
-</details>
+## 案件
+1. [Android版mdoc](./Projects/001_Android版mdoc.md)
+2. [MarbleVisions](./Projects/002_MarbleVisions.md)
+3. [CiMA](./Projects/003_CiMA.md)
+4. [SMBC](./Projects/004_SMBC.md)
+
