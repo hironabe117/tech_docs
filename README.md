@@ -7,14 +7,14 @@ gitのテスト
 
 ### Cognitoの検証
 以下内容を実機（CognitoとAWS CLI）で検証した。  
-[参考](https://dev.classmethod.jp/articles/get-started-with-amazon-cognito-now-1/)  
+[今から始める Amazon Cognito 入門 #1：ユーザープールと ID プールの違い](https://dev.classmethod.jp/articles/get-started-with-amazon-cognito-now-1/) 
 
 ![image](./image/001.png)
 
 
 ## 今後やりたいこと
 以下イメージ図と案件でやろうとしていること（川畑さんに相談）して、案件のアーキ図を整理して実装（フィージビリティ担保）までやりたい。  
-[参考](https://zenn.dev/rescuenow/articles/8396c8528a50e2)
+[私が考えるマイクロサービスアーキテクチャ](https://zenn.dev/rescuenow/articles/8396c8528a50e2)
 
 ![image](./image/002.png)
 
