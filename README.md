@@ -7,13 +7,14 @@
   - [Cloud9代替](./AWS/003_DevEnvironment.md)
   - [AWS CDK](./AWS/004_CDK.md)
   - [mTLS](./AWS/005_mTLS.md)
+  - [Amplify](./AWS/006_Amplify.md)
 
 ## Kubernetes
 - [Docker Tips](./Kubernetes/001_Docker.md)
 - [Kubernetes概要](./Kubernetes/002_K8sOverview.md)
 
 ## Nodejs
-
+- [Nodejs概要](./Nodejs/001_Nodejs概要.md)
 
 ## Python
 
